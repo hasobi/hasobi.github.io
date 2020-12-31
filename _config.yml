@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "github.com/hasobi"
   google_plus      :
   keybase          :
   instagram        :
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
@@ -244,6 +244,8 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  
+  # _profile
 
 # Sass/SCSS
 sass:
