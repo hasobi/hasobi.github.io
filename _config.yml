@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hasobi Ro'id Radityo"
 title_separator          : "-"
 name                     : &name "hasobi"
-description              : &description "personal description"
+description              : &description "personal site"
 url                      : https://hasobi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hasobi/hasobi.github.io"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "main" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
