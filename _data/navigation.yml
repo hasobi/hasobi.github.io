@@ -13,7 +13,8 @@ main:
     url: /portfolio/
 
   - title: "Blog Posts"
-    url: /year-archive/
+    # url: /year-archive/
+    url: https://hasobi.medium.com
 
   - title: "CV"
     url: /cv/
