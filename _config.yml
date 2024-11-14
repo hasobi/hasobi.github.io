@@ -1,11 +1,11 @@
 # Site settings
-title: Erwin's Blog
-SEOTitle: Erwin Blog
+title: Hasobi's Blog
+SEOTitle: Hasobi Blog
 header-img: img/home-bg.jpg
-email: erwin.lejeune15@gmail.com
+email: hasobi.works@gmail.com
 description: "Erwin's Blog Page | Learning, Lifestyle, Experiences"
 keyword: "Erwin, Erwin Blog, Erwin Lejeune, Github Pages, Web, JavaScript, React, React Native"
-url: "guilyx.github.com" # your host, for absolute URL
+url: "hasobi.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-github_username: guilyx
-twitter_username: rangonomics
+github_username: hasobi
+# twitter_username: rangonomics
 #facebook_username:  huxpro
-linkedin_username:  erwinlejeune-lkn
+linkedin_username:  hasobi
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
